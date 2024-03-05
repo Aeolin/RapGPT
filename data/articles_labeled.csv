@@ -1,0 +1,1884 @@
+Artikel;Label
+"{
+    ""id"": ""m-332072788ba04cd7a4c59c9f421429c6"",
+    ""manufacturer"": ""Aarsland"",
+    ""title"": ""Linking table 100x60cm"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Sit-Stand"",
+      ""Logic Edge"",
+      ""LOGIC Tables""
+    ],
+    ""properties"": []
+  }";tables
+"{
+    ""id"": ""m-aecd48b64f4447a994eaba41d9ecee6b"",
+    ""manufacturer"": ""Aarsland"",
+    ""title"": ""F537 Door cabinet"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""5 A4 high"",
+      ""FLEXI Storage""
+    ],
+    ""properties"": []
+  }";cabinets
+"{
+    ""id"": ""m-0cf44444cb3349b28890ae314f24237f"",
+    ""manufacturer"": ""Aarsland"",
+    ""title"": ""560x120 U-foot"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""U-foot"",
+      ""LUX Conference"",
+      ""Boat shape""
+    ],
+    ""properties"": []
+  }";tables
+"{
+    ""id"": ""m-a44e4e77879a43638af2575d5062d81d"",
+    ""manufacturer"": ""ABM S.A."",
+    ""title"": ""Single pendant on a plaid"",
+    ""subtitle"": """",
+    ""description"": ""A-KX-Z-P20-01\n\nSingle pendant on a plaid"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""System elements"",
+      ""Square"",
+      """",
+      """",
+      ""System elements"",
+      """",
+      """"
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Depth"",
+        ""value"": ""20 cm""
+      },
+      {
+        ""prop"": ""Colour"",
+        ""value"": ""light grey  (RAL 9006)""
+      }
+    ]
+  }";lighting
+"{
+    ""id"": ""m-9e95f1ab40ea4cedb4fe08e01485c308"",
+    ""manufacturer"": ""ABM S.A."",
+    ""title"": ""Hanger 66x45x145"",
+    ""subtitle"": """",
+    ""description"": ""D-AV-W-66X45X145-J/93S\n\nHanger 66x45x145"",
+    ""type"": ""cad"",
+    ""collections"": [
+      """",
+      ""AVENIR"",
+      """"
+    ],
+    ""properties"": []
+  }";accessories
+"{
+    ""id"": ""m-b5265a5bc749461c9ff8ebe730c066cf"",
+    ""manufacturer"": ""ABM S.A."",
+    ""title"": ""Back made of laminated board"",
+    ""subtitle"": """",
+    ""description"": ""A-P-PLL-12x6-BAL\n\nBack made of laminated board"",
+    ""type"": ""cad"",
+    ""collections"": [
+      """",
+      ""Line"",
+      """",
+      ""System elements""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Handles colour"",
+        ""value"": ""light grey (RAL 9006)""
+      },
+      {
+        ""prop"": ""Width"",
+        ""value"": ""64 cm""
+      },
+      {
+        ""prop"": ""Width"",
+        ""value"": ""64 cm""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""120 cm""
+      },
+      {
+        ""prop"": ""Decor of back"",
+        ""value"": ""white alaska""
+      }
+    ]
+  }";accessories
+"{
+    ""id"": ""m-1c6f219cccda48f7b308d2b2473089a0"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""YGEE423 90x35x167"",
+    ""subtitle"": """",
+    ""description"": ""YGEE423 L2BD L2BD\n\nCentral unit L 90 P 167 for bookcase with internal rear panel th 1,2 and\nlacquered doors"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Yoga"",
+      ""Unit with lacquered doors"",
+      ""Lacquered Bookcase"",
+      ""YOGA""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Type"",
+        ""value"": ""Middle element""
+      },
+      {
+        ""prop"": ""Internal rear panel"",
+        ""value"": ""Yes""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Height (cm)"",
+        ""value"": ""167""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""Left""
+      },
+      {
+        ""prop"": ""Door"",
+        ""value"": ""Matt lacquered/leather""
+      },
+      {
+        ""prop"": ""Finish side panel"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Type"",
+        ""value"": ""Lacquered""
+      },
+      {
+        ""prop"": ""Fin 1"",
+        ""value"": ""White Dance""
+      },
+      {
+        ""prop"": ""Configuration Type"",
+        ""value"": ""OnDemand""
+      },
+      {
+        ""prop"": ""Type"",
+        ""value"": ""Lacquered""
+      },
+      {
+        ""prop"": ""Fin 3"",
+        ""value"": ""White Dance""
+      },
+      {
+        ""prop"": ""Configuration Type"",
+        ""value"": ""OnDemand""
+      }
+    ]
+  }";cabinets
+"{
+    ""id"": ""m-bbb5043bc7fa4d14b871ef22a9a36eed"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""FS5S002 90x7x72"",
+    ""subtitle"": """",
+    ""description"": ""FS5S002 M2BD\n\nCouple of ring legs D 90 - FUNNY+"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Ring leg"",
+      ""STORAGE and ACCESSORIES"",
+      ""FUNNY PLUS and FUNNY"",
+      ""Funny Plus"",
+      ""Structures"",
+      ""Individual elements""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Met. WDance (M2BD)""
+      },
+      {
+        ""prop"": ""Lead time"",
+        ""value"": ""1 week""
+      }
+    ]
+  }";accessories
+"{
+    ""id"": ""m-ab0f8167f1964de9863a0b4263233f00"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""HP1V724 45x35x127"",
+    ""subtitle"": """",
+    ""description"": ""HP1V724 N3BD A1AC V2VS\n\nShelving unit with 1 framed RH door in glass or lacquered glass or NO PRINT\nglass, lock and push&pull closing system L45/P35/H127 - HYPE"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""HYPE"",
+      ""Hype"",
+      ""Unit with glass doors with Alu frame"",
+      ""Storage units D. 35"",
+      ""STORAGE and ACCESSORIES"",
+      ""Storage units""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Model"",
+        ""value"": ""Door""
+      },
+      {
+        ""prop"": ""Front material"",
+        ""value"": ""Glass, aluminium frame""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Depth (cm)"",
+        ""value"": ""164""
+      },
+      {
+        ""prop"": ""Height (cm)"",
+        ""value"": ""127""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Top"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Finishing side panel"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Mel.WDance (N3BD)""
+      },
+      {
+        ""prop"": ""Fin B"",
+        ""value"": ""Chemical Alum. (A1AC)""
+      },
+      {
+        ""prop"": ""Fin C"",
+        ""value"": ""Satinated Glass (V2VS)""
+      },
+      {
+        ""prop"": ""Lead time"",
+        ""value"": ""1 week""
+      }
+    ]
+  }";shelves
+"{
+    ""id"": ""m-a6957e5cc4eb4130a1607c6bf294f33c"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""FYEP097 1400x400x30"",
+    ""subtitle"": """",
+    ""description"": ""FYEP097 T2GR\n\nAcoustic screen for single desk L.160 - FUNNY"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Screens and modesty pannels"",
+      ""Sound absorbing screens"",
+      ""Screens and Accessories"",
+      ""Ring Leg"",
+      ""TSQUARE LEG AND CSQUARE LEG"",
+      ""Sound absorbing screens"",
+      ""Screens and modesty pannels"",
+      ""Leg Tsquare"",
+      ""Screens and Accessories"",
+      ""Sound absorbing screens"",
+      ""RING LEG and U LEG"",
+      ""Screens and modesty pannels"",
+      ""STORAGE and ACCESSORIES"",
+      ""Modesty panels and Screens"",
+      ""Sound absorbing screens"",
+      ""OPERATIVE"",
+      ""WOOD SIDE"",
+      ""Sound absorbing screens"",
+      ""FUNNY PLUS and FUNNY"",
+      ""T-LEG"",
+      ""Sound absorbing screens"",
+      ""Sound absorbing screens"",
+      ""Leg U"",
+      ""Funny"",
+      ""Leg Csquare"",
+      ""Sound absorbing screens"",
+      ""Modesty panels and Screens"",
+      ""Screens and Accessories"",
+      ""Accessories and cable management""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Model"",
+        ""value"": ""Door""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Bar"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Met. Smart Black (M1NE)""
+      },
+      {
+        ""prop"": ""Fin B"",
+        ""value"": ""Fabr.Grey (T2GR)""
+      }
+    ]
+  }";partitions
+"{
+    ""id"": ""m-507d4fef1a014d6fac71c28ec96df6fd"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""HP1D413 180x190x75"",
+    ""subtitle"": """",
+    ""description"": ""HP1D413 A2BD I1RO\n\nLinear desk wood veneer L 180 D 90 H 75 with side extension attached to main\ndesk rh/lh L 100 D 60 H 75 - HYPE"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""HYPE"",
+      ""Aluminium structure"",
+      ""Hype"",
+      ""WOOD VENEER"",
+      ""Desk with return"",
+      ""DESKS""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Glass NO-PRINT""
+      },
+      {
+        ""prop"": ""Desk type"",
+        ""value"": ""For structural container""
+      },
+      {
+        ""prop"": ""Structure"",
+        ""value"": ""With cover""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Depth (cm)"",
+        ""value"": ""164""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""Left""
+      },
+      {
+        ""prop"": ""Side return"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Service unit"",
+        ""value"": ""Mono-finishes melamine or lacquered""
+      },
+      {
+        ""prop"": ""Shelve"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Modesty panel"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Cable management"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Alum. WDance (A2BD)""
+      },
+      {
+        ""prop"": ""Fin B"",
+        ""value"": ""Veneer Durmast (I1RO)""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""Right""
+      },
+      {
+        ""prop"": ""Lead time"",
+        ""value"": ""4 weeks""
+      }
+    ]
+  }";tables
+"{
+    ""id"": ""m-e9b0941900cf491b9f021f5cf31438cf"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""HP5C434 184x45x129"",
+    ""subtitle"": """",
+    ""description"": ""HP5C434 N3BD L2BD I1RO I1RO\n\nComposition of sideboard module with lacquered structure and fronts and\nfinishing elements in veneer L184/P45/P129 - HYPE"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""HYPE"",
+      ""Hype"",
+      ""Configuration type"",
+      ""STORAGE and ACCESSORIES"",
+      ""Sideboards""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Configuration"",
+        ""value"": ""4""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Height (cm)"",
+        ""value"": ""127""
+      },
+      {
+        ""prop"": ""Material Wall units structure"",
+        ""value"": ""Lacquered""
+      },
+      {
+        ""prop"": ""Front material"",
+        ""value"": ""Glass, aluminium frame""
+      },
+      {
+        ""prop"": ""Front material"",
+        ""value"": ""Wood veneer""
+      },
+      {
+        ""prop"": ""Top"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Finishing side panel"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Mel.WDance (N3BD)""
+      },
+      {
+        ""prop"": ""Fin B"",
+        ""value"": ""M.La.2S WDance (L2BD)""
+      },
+      {
+        ""prop"": ""Fin C"",
+        ""value"": ""Veneer Durmast (I1RO)""
+      },
+      {
+        ""prop"": ""Lead time"",
+        ""value"": ""4 weeks""
+      }
+    ]
+  }";sideboards
+"{
+    ""id"": ""m-d3694a160af9412aba2723a8c56d982a"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""YGEE737 90x45x210"",
+    ""subtitle"": """",
+    ""description"": ""YGEE737 N3BD N3BD D902\n\nStorage unit with 2 doors"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Yoga"",
+      ""Fronts MFC types, veneered or lacquered"",
+      ""YOGA"",
+      ""Storage Units""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Model"",
+        ""value"": ""<invisible>""
+      },
+      {
+        ""prop"": ""Fronts material"",
+        ""value"": ""NO-PRINT lacquered glass""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""180""
+      },
+      {
+        ""prop"": ""Height (cm)"",
+        ""value"": ""167""
+      },
+      {
+        ""prop"": ""Orientation"",
+        ""value"": ""Left""
+      },
+      {
+        ""prop"": ""Add on unit door"",
+        ""value"": ""<invisible>""
+      },
+      {
+        ""prop"": ""Top"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Finishing sides"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Optional"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Type Fronts"",
+        ""value"": ""MFC types""
+      },
+      {
+        ""prop"": ""Fin 1"",
+        ""value"": ""White Dance""
+      },
+      {
+        ""prop"": ""Configuration Type"",
+        ""value"": ""Standard""
+      },
+      {
+        ""prop"": ""Type Structure"",
+        ""value"": ""MFC types""
+      },
+      {
+        ""prop"": ""Fin 3"",
+        ""value"": ""White Dance""
+      },
+      {
+        ""prop"": ""Configuration Type"",
+        ""value"": ""Standard""
+      },
+      {
+        ""prop"": ""Type"",
+        ""value"": ""D902""
+      }
+    ]
+  }";cabinets
+"{
+    ""id"": ""m-6bf71e07cfd94dbda65a191fd1f66bd6"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""FYEE032 41,5x55x60"",
+    ""subtitle"": """",
+    ""description"": ""FYEE032 N3BD N3BD\n\nMobile pedestal MFC (1 drawer plus 1 filing drawer) L41,5/D55/H60 -FUNNY-"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Pedestals"",
+      ""STORAGE and ACCESSORIES"",
+      ""FUNNY PLUS and FUNNY"",
+      ""Pedestals and desk height containers"",
+      ""Funny""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Glass NO-PRINT""
+      },
+      {
+        ""prop"": ""Front"",
+        ""value"": ""1 Drawer, 1 filing drawer""
+      },
+      {
+        ""prop"": ""Mechanism"",
+        ""value"": ""Standard""
+      },
+      {
+        ""prop"": ""Castors"",
+        ""value"": ""Yes""
+      },
+      {
+        ""prop"": ""Metal drawers"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Fin A"",
+        ""value"": ""Mel.WDance (N3BD)""
+      },
+      {
+        ""prop"": ""Lead time"",
+        ""value"": ""1 week""
+      }]}";drawers
+"{
+    ""id"": ""m-dc035d64ab1b4c72aed345bc4777b7be"",
+    ""manufacturer"": ""Andreu World"",
+    ""title"": ""M1 marble Sideboards. Measures:  long 2560 mm.,  width 520 mm.,  height 720 mm."",
+    ""subtitle"": ""AP04567"",
+    ""description"": ""AP04567\n\nM1 marble Sideboards. Measures:  long 2560 mm.,  width 520 mm.,  height 720 mm."",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Tempo Credenza"",
+      ""Table collection"",
+      ""H72"",
+      ""Sideboards"",
+      ""256x52"",
+      ""Table"",
+      ""Indoor""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Collection"",
+        ""value"": ""Solid Conference Table""
+      },
+      {
+        ""prop"": ""Exterior material"",
+        ""value"": ""Oak""
+      },
+      {
+        ""prop"": ""Exterior color"",
+        ""value"": ""304""
+      },
+      {
+        ""prop"": ""Top finish"",
+        ""value"": ""Technical Stone 8""
+      },
+      {
+        ""prop"": ""Top color"",
+        ""value"": ""Sand""
+      },
+      {
+        ""prop"": ""Type of base"",
+        ""value"": ""Wood""
+      }
+    ]
+  }";sideboards
+"{
+    ""id"": ""m-036e2642bdda47a3ba1e788ec7b00542"",
+    ""manufacturer"": ""Andreu World"",
+    ""title"": ""model"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Radial Conference Table"",
+      ""350x150"",
+      ""Table collection"",
+      ""H745"",
+      ""Table programs"",
+      ""Table"",
+      ""Indoor""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Collection"",
+        ""value"": ""Solid Conference Table""
+      },
+      {
+        ""prop"": ""Base finish"",
+        ""value"": ""Eco Thermo-polymer""
+      },
+      {
+        ""prop"": ""Base color"",
+        ""value"": ""6000""
+      },
+      {
+        ""prop"": ""Top finish"",
+        ""value"": ""Technical Stone 8""
+      },
+      {
+        ""prop"": ""Top color"",
+        ""value"": ""Sand""
+      },
+      {
+        ""prop"": ""Shiny marble"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Power system"",
+        ""value"": ""No""
+      }
+    ]
+  }";tables
+"{
+    ""id"": ""m-80e882d29b254c96b1c8357cbb3f7575"",
+    ""manufacturer"": ""COR Sitzmöbel"",
+    ""title"": ""Conseta CC wall armrest right,"",
+    ""subtitle"": ""Conseta\nwall armrest right\n16 cm wide\n54 cm high\n87 cm deep"",
+    ""description"": ""44004\n\nConseta CC wall armrest right,\n16x54x87 cm"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Bestseller"",
+      ""Conseta"",
+      ""Sofa"",
+      ""armrest"",
+      ""Rooms"",
+      ""87 cm deep"",
+      ""87 cm deep"",
+      ""All Products"",
+      ""Conseta"",
+      ""wall armrest"",
+      ""open base"",
+      ""open base"",
+      ""armrest"",
+      ""Conseta"",
+      ""Conseta"",
+      ""Conseta"",
+      ""wall armrest"",
+      ""87 cm deep"",
+      ""armrest"",
+      ""armrest"",
+      ""wall armrest"",
+      ""Categories"",
+      ""open base"",
+      ""open base"",
+      ""87 cm deep"",
+      ""wall armrest"",
+      ""Living area""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""::cor::conseta::@MKorpusform"",
+        ""value"": ""::cor::conseta::@BODENFREI""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MGestell"",
+        ""value"": ""::cor::conseta::@WANGE""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MTiefe"",
+        ""value"": ""870""
+      },
+      {
+        ""prop"": ""Width"",
+        ""value"": ""160""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""600""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MAnbauseite"",
+        ""value"": ""::cor::conseta::@R""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MFussform"",
+        ""value"": ""::cor::conseta::@MKU""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MRahmenfuss"",
+        ""value"": ""::cor::conseta::@Ohne""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MGleiter"",
+        ""value"": ""::cor::conseta::@FG""
+      },
+      {
+        ""prop"": ""::cor::conseta::@MAnSelbststehendemElement"",
+        ""value"": ""::cor::conseta::@NEIN""
+      },
+      {
+        ""prop"": ""::cor::conseta::@GM8"",
+        ""value"": ""::cor::conseta::@CHROM""
+      },
+      {
+        ""prop"": ""model"",
+        ""value"": ""CONSETA""
+      },
+      {
+        ""prop"": ""fire protection"",
+        ""value"": ""no fire-regulation""
+      },
+      {
+        ""prop"": ""collection"",
+        ""value"": ""COR collection""
+      },
+      {
+        ""prop"": ""cover type"",
+        ""value"": ""fabric""
+      },
+      {
+        ""prop"": ""pricegroup"",
+        ""value"": ""50""
+      },
+      {
+        ""prop"": ""cover"",
+        ""value"": ""5015 fabric light grey""
+      },
+      {
+        ""prop"": ""leg form"",
+        ""value"": ""felt glides""
+      },
+      {
+        ""prop"": ""change in height"",
+        ""value"": ""without special height""
+      },
+      {
+        ""prop"": ""width"",
+        ""value"": ""160""
+      },
+      {
+        ""prop"": ""depth"",
+        ""value"": ""870""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""600""
+      }
+    ]
+  }";sofas
+"{
+    ""id"": ""m-8d8aea68463a4e16880af021f00ea734"",
+    ""manufacturer"": ""COR Sitzmöbel"",
+    ""title"": ""Drop bench, stackable, 170 cm"",
+    ""subtitle"": ""DROP bench\nstackable\nwidth: 170 cm"",
+    ""description"": ""79170\n\nDrop bench, stackable, 170 cm"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Drop"",
+      ""Drop"",
+      ""Rooms"",
+      ""All Products"",
+      ""Drop"",
+      ""Drop"",
+      ""Drop"",
+      ""Working area"",
+      ""Dining area"",
+      ""Drop bench"",
+      ""Categories"",
+      ""Bench"",
+      ""Living area""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Type"",
+        ""value"": ""::cor::metragen::@ALederHaeute""
+      },
+      {
+        ""prop"": ""Diameter"",
+        ""value"": ""0""
+      },
+      {
+        ""prop"": ""Width"",
+        ""value"": ""160""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""600""
+      },
+      {
+        ""prop"": ""::cor::drop::@MTisch"",
+        ""value"": ""::cor::drop::@Ohne""
+      },
+      {
+        ""prop"": ""model"",
+        ""value"": ""CONSETA""
+      },
+      {
+        ""prop"": ""fire protection"",
+        ""value"": ""no fire-regulation""
+      },
+      {
+        ""prop"": ""collection"",
+        ""value"": ""COR collection""
+      },
+      {
+        ""prop"": ""cover type"",
+        ""value"": ""fabric""
+      },
+      {
+        ""prop"": ""pricegroup"",
+        ""value"": ""95""
+      },
+      {
+        ""prop"": ""cover"",
+        ""value"": ""9703 fabric powder blue""
+      },
+      {
+        ""prop"": ""leg form"",
+        ""value"": ""felt glides""
+      },
+      {
+        ""prop"": ""leg colour"",
+        ""value"": ""chromed""
+      },
+      {
+        ""prop"": ""width"",
+        ""value"": ""F110""
+      },
+      {
+        ""prop"": ""width"",
+        ""value"": ""1400""
+      },
+      {
+        ""prop"": ""depth"",
+        ""value"": ""730""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""600""
+      }
+    ]
+  }";benches
+"{
+    ""id"": ""m-1f10bff72ef04e6ba6364315313f9eb5"",
+    ""manufacturer"": ""Cube Design A/S"",
+    ""title"": ""Flower box with plastic liner for bookcases, 1198x430x280mm"",
+    ""subtitle"": """",
+    ""description"": ""5225\n\nFlower box for bookcases\nWith plastic liner\nMade in 16 mm plates\n1198x430x280mm"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Quadro storage"",
+      ""CUBE"",
+      ""Quadro Accessories""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Type"",
+        ""value"": ""ACC""
+      },
+      {
+        ""prop"": ""Cabinet, surface"",
+        ""value"": ""Laminate""
+      },
+      {
+        ""prop"": ""Cabinet, color"",
+        ""value"": ""Opaque White, 10400/1040""
+      }
+    ]
+  }";accessories
+"{
+    ""id"": ""m-21db9b91e6804c5ba340226f137c1665"",
+    ""manufacturer"": ""EFG European Furniture Group AB"",
+    ""title"": ""Chair EFG Nova sled base"",
+    ""subtitle"": ""Sled base, seat shell"",
+    ""description"": ""NOVB400\n\nChair EFG Nova sled base"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""EFG Nova"",
+      ""Chairs"",
+      ""EFG""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Seat"",
+        ""value"": ""Seat shell""
+      },
+      {
+        ""prop"": ""Frame"",
+        ""value"": ""Plastic star base with armrest""
+      },
+      {
+        ""prop"": ""Tilt"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Metal"",
+        ""value"": ""White Lacquer RAL 9016 (Z4)""
+      },
+      {
+        ""prop"": ""Seat"",
+        ""value"": ""Ash 2% white pigmented (A2)""
+      }
+    ]
+  }";chairs
+"{
+    ""id"": ""m-9a2d7363daf14f6b8e2189d4b328beca"",
+    ""manufacturer"": ""fm Büromöbel GmbH"",
+    ""title"": ""System 41 privacy screen element  W 1400 X H 973 MM"",
+    ""subtitle"": """",
+    ""description"": ""1.015.412600\n\nSystem 41 privacy screen element\nW 1400 X H 973 MM with integrated organiser rail"",
+    ""type"": ""cad"",
+    ""collections"": [
+      """",
+      ""Movable partition system 41 12/2022 Q4 BM1"",
+      ""Stellwand System 41"",
+      ""Width 1400 mm"",
+      ""Full-wall system with functional rail""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Ausführung"",
+        ""value"": ""Kabelklipse""
+      },
+      {
+        ""prop"": ""Breite"",
+        ""value"": ""600""
+      },
+      {
+        ""prop"": ""Höhe"",
+        ""value"": ""1800""
+      },
+      {
+        ""prop"": ""AUSF"",
+        ""value"": ""C""
+      },
+      {
+        ""prop"": ""ORGALEISTE"",
+        ""value"": ""0""
+      },
+      {
+        ""prop"": ""NUT"",
+        ""value"": ""0""
+      },
+      {
+        ""prop"": ""Partition wall Substance group 1"",
+        ""value"": ""Substance group A""
+      },
+      {
+        ""prop"": ""FABU"",
+        ""value"": ""Y004""
+      },
+      {
+        ""prop"": ""Partition wall Substance group 2"",
+        ""value"": ""unavailable""
+      },
+      {
+        ""prop"": ""FABO"",
+        ""value"": ""0""
+      }
+    ]
+  }";partitions
+"{
+    ""id"": ""m-611dd35d73a440ab8a589f034611e05c"",
+    ""manufacturer"": ""KUSCH + CO"",
+    ""title"": ""CREVA POUFFE 3U"",
+    ""subtitle"": """",
+    ""description"": ""CREVA POUFFE 3U (SE-VL1048 BC-SKNB FFR2 GD FSC PACK-ASM)                                                                                                                                                \n\nCREVA POUFFE 3U\nLegs type: I-legs\nIntegration: None\nWood and wood-based materials: Raw material – EU timber regulation, from certified forests, FSC certificate – authorized companies\nAssembly: PACK-ASM: Fully assembled, cardboard packaging\nTotal height: 462 mm\nSeat height: 462 mm\nTotal width: 2180 mm\nTotal depth: 720 mm"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Seating"",
+      ""Creva - soft seating"",
+      ""CRE""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Media (pouffe, location A)"",
+        ""value"": ""None""
+      },
+      {
+        ""prop"": ""Movable tablet"",
+        ""value"": ""None""
+      },
+      {
+        ""prop"": ""Glides"",
+        ""value"": ""Plastic""
+      },
+      {
+        ""prop"": ""Foam"",
+        ""value"": ""Flame retardant""
+      },
+      {
+        ""prop"": ""Total height"",
+        ""value"": ""462 mm""
+      },
+      {
+        ""prop"": ""Price group"",
+        ""value"": ""2""
+      },
+      {
+        ""prop"": ""Base finish"",
+        ""value"": ""Beech wood""
+      },
+      {
+        ""prop"": ""Upholstery group"",
+        ""value"": ""Valencia""
+      },
+      {
+        ""prop"": ""Upholstery colour"",
+        ""value"": ""VL1048""
+      },
+      {
+        ""prop"": ""Wooden elements colour - legs"",
+        ""value"": ""Natural beech""
+      }
+    ]
+  }";stools
+"{
+    ""id"": ""m-80ac814b4d684df58cd812718a8cde2f"",
+    ""manufacturer"": ""Lintex"",
+    ""title"": ""Notice board textile 2505 x 1205, mitred corners, aluminium frame"",
+    ""subtitle"": ""2505 x 1205"",
+    ""description"": ""27829GT-EJ004\n\nNotice board textile 2505 x 1205, mitred corners, aluminium frame"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Notice Boards"",
+      ""Boarder Textile Mitred Frame"",
+      ""Lintex""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Size"",
+        ""value"": ""2508 x 1205""
+      },
+      {
+        ""prop"": ""Textile"",
+        ""value"": ""Cara""
+      },
+      {
+        ""prop"": ""Textile color"",
+        ""value"": ""EJ004 - Glass""
+      }
+    ]
+  }";textile
+"{
+    ""id"": ""m-3098e2a6442f49e283a7a3519d9f817d"",
+    ""manufacturer"": ""Lintex"",
+    ""title"": ""Air Textile 1190 x 1190"",
+    ""subtitle"": ""1190 x 1190"",
+    ""description"": ""2081OMA-LTH39\n\nAir Textile 1190 x 1190"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Air Textile"",
+      ""Writing Boards"",
+      ""Lintex""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Width"",
+        ""value"": ""4760""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""2990""
+      },
+      {
+        ""prop"": ""Textile"",
+        ""value"": ""Cara""
+      },
+      {
+        ""prop"": ""Textile color"",
+        ""value"": ""EJ004 - Glass""
+      }
+    ]
+  }";textile
+" {
+    ""id"": ""m-58a52ad6dfc24bdb92a5373b4b654aa9"",
+    ""manufacturer"": ""Mobitec Systems S.A."",
+    ""title"": ""GECKO B1910"",
+    ""subtitle"": """",
+    ""description"": ""Perfect for a waiting room, lounge area or lobby, the Gecko benches are available in a variety of configurations so that they can meet all the needs of the Contract sector. There are elements with two or three seats, with or without armrests, with or without backrest, with a metal or wooden base, etc. The possibilities are endless. For the upholstery material, you can pick one of the fabrics or synthetic leather options available in our catalog or provide us with your own material."",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""GECKO"",
+      ""SEATS""
+    ],
+    ""properties"": []
+  }";benches
+"{
+    ""id"": ""m-34fefc0dec4f45da8054f203c34a7640"",
+    ""manufacturer"": ""Mobitec Systems S.A."",
+    ""title"": ""SAPPHO S0411"",
+    ""subtitle"": """",
+    ""description"": ""This fully customisable classic chair will meet all your needs. Comfortable and very practical, it has been specially designed for the healthcare sector. The feet are available in beech, oak or walnut in various colours and finishes. This chair can also be padded with CMHR (flame retardant) foam for an extra cost."",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""MOBITECARE""
+    ],
+    ""properties"": []
+  }";chairs
+"{
+    ""id"": ""m-f7db8cbc3175433c95ac085bfc88bdd5"",
+    ""manufacturer"": ""Mobitec Systems S.A."",
+    ""title"": ""TITAN - ROSE"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""material"",
+    ""collections"": [
+      ""AQUACLEAN"",
+      ""MATERIALS"",
+      ""UPHOLSTERIES"",
+      ""CL5 - TITAN""
+    ],
+    ""properties"": []
+  }";materials
+"{
+    ""id"": ""m-a4789f0af3814474a543fdf3267398e6"",
+    ""manufacturer"": ""savir-design"",
+    ""title"": ""Steelcut Trio 3 466"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""material"",
+    ""collections"": [
+      ""Steelcut Trio 3"",
+      ""Upholsteries"",
+      ""Kvadrat""
+    ],
+    ""properties"": []
+  }";materials
+"{
+    ""id"": ""m-a3fa4447d6ee4e149a4df4eb8c34ddd6"",
+    ""manufacturer"": ""Zumtobel Lighting"",
+    ""title"": ""PANOS EVO Q100H 9W LED830 LDO AL WH"",
+    ""subtitle"": """",
+    ""description"": ""62907034\n\nLED ceiling-recessed luminaire (pre-assembled luminaire); \""\""Stable White\""\""; cut-off angle 45°; lamp(s): 9 W LED830; Colour rendering Ra > 80, colour temperature 3000 K (warm white); Chromaticity tolerance (initial MacAdam): 3; Luminaire luminous flux: 882 lm, Luminaire efficacy: 98 lm/W; service life: 50000h at 85%  luminous flux; includes control unit Slave luminaire for DALI control (DALI only); modular, high quality optical unit consisting of reflector and LED light chamber integrated in optimised thermal management of die-cast aluminium; smooth reflector in highly reflective aluminized finish, iridescence-free; reflector/trim made of high-quality, UV-resistant polycarbonate; white trim; mounting surround of die-cast aluminium; luminaire unit can be fitted quickly without tools using EASY-CLICK catch; IP44_IP20; luminaire wired with halogen-free leads; power connection: 5-pole connector terminal, loop-in/loop-out possible; mains voltage: 220-240V / 0/50/60Hz, for use with 220V DC central battery; tool-free quick installation using spring clips in ceilings of thickness 1-25mm; ceiling cutout: 100x100 mm,  recessed depth: 130mm; weight: 0.67 kg;\nNote: UGR<19 for office applications compliant with EN12464 (depending on luminaire type)"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Downlights"",
+      ""PANOS Q"",
+      ""PANOS evolution"",
+      ""PANOS Q"",
+      ""PANOS evolution Q100 H""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Mounting type"",
+        ""value"": ""ceiling recessed""
+      },
+      {
+        ""prop"": ""Colour"",
+        ""value"": ""white""
+      },
+      {
+        ""prop"": ""Light source"",
+        ""value"": ""LED L85 @ 50.000h""
+      },
+      {
+        ""prop"": ""Luminaire luminous flux [lm]"",
+        ""value"": ""882""
+      },
+      {
+        ""prop"": ""Connected load [W]"",
+        ""value"": ""9""
+      },
+      {
+        ""prop"": ""Colour temperature [K]"",
+        ""value"": ""3000""
+      },
+      {
+        ""prop"": ""Dimming"",
+        ""value"": ""LDO""
+      }
+    ]
+  }";lighting
+"{
+    ""id"": ""m-3189a275ebe54dbcb1ac846702bdd27c"",
+    ""manufacturer"": ""About OFFICE by Mobilpref"",
+    ""title"": ""KN2P251 92,5x34,5x41,6"",
+    ""subtitle"": """",
+    ""description"": ""KN2P251 A1AL E1GY L8GY\n\nStart element aluminium structure glass shelves 92,5x34,5x41,6 - KONO -"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Kono"",
+      ""Modular bookcases"",
+      ""Kono"",
+      ""Glass shelves"",
+      ""Suspended hanging modules""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Height type"",
+        ""value"": ""Low""
+      },
+      {
+        ""prop"": ""Type"",
+        ""value"": ""Side""
+      },
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""92.5""
+      },
+      {
+        ""prop"": ""Shelves"",
+        ""value"": ""3""
+      },
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Leather""
+      },
+      {
+        ""prop"": ""Add to the composition"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Close composition"",
+        ""value"": ""No""
+      },
+      {
+        ""prop"": ""Structure"",
+        ""value"": ""Beige""
+      },
+      {
+        ""prop"": ""Finish"",
+        ""value"": ""Beige""
+      }
+    ]
+  }";shelves
+"{
+    ""id"": ""m-48e716def216425383c7e2f7518e3fef"",
+    ""manufacturer"": ""montana"",
+    ""title"": ""1221 - 69,6 x 69,6 x 30 cm (*12 x *12)"",
+    ""subtitle"": """",
+    ""description"": ""Opbevaring, Förvaring, Oppbevaring, Storage, Aufbewahrung, Reol, Hyllsystem, Bokhyller, Bookshelf,"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Montana Living"",
+      ""*12 x *12 - 69,6 x 69,6 cm"",
+      ""*12"",
+      ""Basic and shelving units""
+    ],
+    ""properties"": []
+  }";shelves
+"{
+    ""id"": ""m-a111e44746a3466eb53cf1638c48cd36"",
+    ""manufacturer"": ""SACKit"",
+    ""title"": ""SACKit Oil Lamp"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Outdoor"",
+      ""Accessories""
+    ],
+    ""properties"": []
+  }";lighting
+"{
+    ""id"": ""m-0caaeeda01b546ffa17d05966af59f82"",
+    ""manufacturer"": ""Plydesign ltd."",
+    ""title"": ""Farmosa lamp"",
+    ""subtitle"": ""Farmosa lamp D1100x550"",
+    ""description"": ""FAR-APM-C_BL-D1100x550/3000K\n\nFarmosa lamp"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Farmosa lamp"",
+      ""Plydesign"",
+      ""Lights""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Variant"",
+        ""value"": ""Farmosa lamp""
+      },
+      {
+        ""prop"": ""Dimensions"",
+        ""value"": ""dimension D360x180 mm""
+      },
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Acrylate plastic and Iceland moss""
+      },
+      {
+        ""prop"": ""Surface"",
+        ""value"": ""Black - oiled edge""
+      },
+      {
+        ""prop"": ""Color temperature"",
+        ""value"": ""3000 K""
+      }
+    ]
+  }";lighting
+" {
+    ""id"": ""m-e30ad0719763420889d6e7c982af1060"",
+    ""manufacturer"": ""hw-ap2"",
+    ""title"": ""Gauge"",
+    ""subtitle"": """",
+    ""description"": ""RUSH: yes Lightfastness: Class 4 min @ 40 hours Double Rubs: 90,000 Modified Wyzenbeek Weight: 15.65 oz. per linear yard Width: 54 inches Content: 100% recycled polyester Backing: polyester Directional: yes Pattern Repeat H: N/A Pattern Repeat V: N/A Fabric Composition: woven Environmental: yes"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Fabric - Grade A"",
+      ""Finishes""
+    ],
+    ""properties"": []
+  }";finishes
+"{
+    ""id"": ""m-013d1bb5c44d45c788944bbdcdce0d04"",
+    ""manufacturer"": ""König + Neurath AG"",
+    ""title"": ""ACTA.PLUS - MOBIL W430/H735MM WITH DRAWERS"",
+    ""subtitle"": ""Drawer 735 mm high"",
+    ""description"": ""S8CAS24347A\n\nACTA.Plus caddy on castors\nDimensions: (WxH x D) in mm: 430 x 735 x 470\nSurface melamine\ndrawers with lock and central locking\nat the top: drawer with base\nat the bottom drawer with base/fil.frame DIN A4"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""S8"",
+      ""MOBILE STORAGE AND PULL-OUT SIDEFILERS"",
+      ""ACTA.PLUS-MOBILE""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Series"",
+        ""value"": ""ACTA.PLUS""
+      },
+      {
+        ""prop"": ""Type"",
+        ""value"": ""Drawer""
+      },
+      {
+        ""prop"": ""Width"",
+        ""value"": ""800 mm""
+      },
+      {
+        ""prop"": ""Depth"",
+        ""value"": ""470 mm""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""735 mm""
+      },
+      {
+        ""prop"": ""Accessories 1"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Accessories 2"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Accessories 3"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Assembly drawer 4"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Colour body"",
+        ""value"": ""Grey""
+      },
+      {
+        ""prop"": ""Colour front"",
+        ""value"": ""Grey""
+      },
+      {
+        ""prop"": ""Colour top"",
+        ""value"": ""Maple""
+      },
+      {
+        ""prop"": ""Colour edge of top"",
+        ""value"": ""Maple""
+      },
+      {
+        ""prop"": ""Colour handle"",
+        ""value"": ""Aluminium-coloured""
+      },
+      {
+        ""prop"": ""cover plate"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Pull strap"",
+        ""value"": ""without""
+      }
+    ]
+  }";drawers
+"{
+    ""id"": ""m-b44ebf0be6994d35877a6e5e5f07454d"",
+    ""manufacturer"": ""König + Neurath AG"",
+    ""title"": ""MOVE.MIX - BAR STOOL,4-LEGGED,SHELL WHITE WOOD,WITHOUT UPHOLSTERY"",
+    ""subtitle"": ""Bar stool with four-legged frame, shell in white wood"",
+    ""description"": ""MMBAR4HD0\n\nMOVE.MIX Bar stool\n4-legged wooden frame in natural oak\nShell white wood\nwithout upholstery"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Bar stool with four-legged frame"",
+      ""MOVE.MIX"",
+      ""SEATING"",
+      ""MOVE.MIX""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Series"",
+        ""value"": ""MOVE.MIX""
+      },
+      {
+        ""prop"": ""Price group"",
+        ""value"": ""without upholstery""
+      },
+      {
+        ""prop"": ""Frame"",
+        ""value"": ""Wood""
+      },
+      {
+        ""prop"": ""Seat shell"",
+        ""value"": ""White wood""
+      },
+      {
+        ""prop"": ""Upholstery"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Colour bowl"",
+        ""value"": ""White wood""
+      },
+      {
+        ""prop"": ""Colour frame of chair"",
+        ""value"": ""Real wood oak""
+      },
+      {
+        ""prop"": ""Set of glides"",
+        ""value"": ""Glides for carpeted floors""
+      }
+    ]
+  }";stools
+"{
+    ""id"": ""m-fa575034a2a24e08886c51d5ddda97be"",
+    ""manufacturer"": ""ASSMANN BÜROMÖBEL GMBH & CO. KG"",
+    ""title"": ""Roma chair transport trolley type 720"",
+    ""subtitle"": ""STRW720 - Roma/Riva chair transport trolley type 726"",
+    ""description"": ""STRW720\n\nConsento - Roma/Riva \nChair transport trolleys Typ 720, \nup to 560 mm chair width"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""accessories"",
+      ""Consento"",
+      ""Roma"",
+      ""accessories"",
+      ""C O N S E N T O"",
+      ""Riva"",
+      ""stacking chair""
+    ],
+    ""properties"": []
+  }";trolleys
+"{
+    ""id"": ""m-630446f2aeb84936a033b27bfa078f45"",
+    ""manufacturer"": ""Casamania"",
+    ""title"": ""CME3 - FESTIVAL TROLLEY H.736"",
+    ""subtitle"": ""CME32201"",
+    ""description"": ""FESTIVAL TROLLEY H.736"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Festival"",
+      ""Trolleys""
+    ],
+    ""properties"": []
+  }";trolleys
+"{
+    ""id"": ""m-996c30cbdb86454e9769d70cead31e06"",
+    ""manufacturer"": ""Andreu World"",
+    ""title"": ""M3 marble Sideboards. Measures:  long 2560 mm.,  width 520 mm.,  height 720 mm."",
+    ""subtitle"": ""AP04497"",
+    ""description"": ""AP04497\n\nM3 marble Sideboards. Measures:  long 2560 mm.,  width 520 mm.,  height 720 mm."",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Tempo Credenza"",
+      ""Table collection"",
+      ""H72"",
+      ""Sideboards"",
+      ""256x52"",
+      ""Table"",
+      ""Indoor""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Collection"",
+        ""value"": ""Solid Conference Table""
+      },
+      {
+        ""prop"": ""Exterior material"",
+        ""value"": ""Oak""
+      },
+      {
+        ""prop"": ""Exterior color"",
+        ""value"": ""304""
+      },
+      {
+        ""prop"": ""Top finish"",
+        ""value"": ""Technical Stone 8""
+      },
+      {
+        ""prop"": ""Top color"",
+        ""value"": ""Sand""
+      },
+      {
+        ""prop"": ""Type of base"",
+        ""value"": ""Wood""
+      }
+    ]
+  }";sideboards
+"{
+    ""id"": ""m-d178926d616246288bd92592aa387e8b"",
+    ""manufacturer"": ""EromesMarko"",
+    ""title"": ""LumaTR70-50_82h_G7"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Luma with round table leg"",
+      ""Tables"",
+      ""82h_G7""
+    ],
+    ""properties"": []
+  }";tables
+"{
+    ""id"": ""m-3b77a6c588634471a30d00117b083dda"",
+    ""manufacturer"": ""Lazzoni"",
+    ""title"": ""Space Set 10 - (Cam-Glass)"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Space Set 10"",
+      ""WARDROBE"",
+      ""SPACE"",
+      ""WARDROBE SAMPLES""
+    ],
+    ""properties"": []
+  }";cabinets
+"{
+    ""id"": ""m-8f6c9e40074840f0b0cc17305dd61c25"",
+    ""manufacturer"": ""louis-poulsen-lighting"",
+    ""title"": ""KEGLEN 175 Black"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""PENDENTS"",
+      ""INDOOR PRODUCTS"",
+      ""KEGLEN""
+    ],
+    ""properties"": []
+  }";lighting
+"{
+    ""id"": ""m-2abc823e584c4046bab5270783eda082"",
+    ""manufacturer"": ""fm Büromöbel GmbH"",
+    ""title"": ""Desk cockpit shape 1800 x 800/1200 mm (WxD)  STAND-ALONE"",
+    ""subtitle"": """",
+    ""description"": ""1.045.208500\n\nDesk cockpit shape 1800 x 800/1200 mm (WxD)\nStand-alone, EXTRA DEPTH ON THE LEFT 600 MM"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Desks"",
+      ""All in One 02/2023 Q1 BM1"",
+      ""Cockpit shape"",
+      ""Extra depth on the left, 600 mm"",
+      ""800/1200 mm deep"",
+      ""AO"",
+      ""Stand-alone""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Breite"",
+        ""value"": ""2000""
+      },
+      {
+        ""prop"": ""Tiefe"",
+        ""value"": ""1600""
+      },
+      {
+        ""prop"": ""Übertiefe"",
+        ""value"": ""links, 800 mm""
+      },
+      {
+        ""prop"": ""Verkettung"",
+        ""value"": ""rechts""
+      },
+      {
+        ""prop"": ""Kabelkanal"",
+        ""value"": ""nein""
+      },
+      {
+        ""prop"": ""Kabelkanal seitlich"",
+        ""value"": ""nein""
+      },
+      {
+        ""prop"": ""Knieraumblende"",
+        ""value"": ""nein""
+      },
+      {
+        ""prop"": ""Knieraumblende seitlich"",
+        ""value"": ""nein""
+      },
+      {
+        ""prop"": ""Tischform"",
+        ""value"": ""::fmx::ao::@AO_LV""
+      },
+      {
+        ""prop"": ""V2 - table frame"",
+        ""value"": ""fm11 four-legged rounded pipe without sliding top""
+      },
+      {
+        ""prop"": ""Height adjustment table"",
+        ""value"": ""continuous from 680 to 820 mm""
+      },
+      {
+        ""prop"": ""V1 - colour tabletop/access."",
+        ""value"": ""02: Light grey""
+      },
+      {
+        ""prop"": ""V1K - colour tabletop edge"",
+        ""value"": ""02: Light grey""
+      },
+      {
+        ""prop"": ""V5 - colour frame/access."",
+        ""value"": ""010: silver aluminium""
+      },
+      {
+        ""prop"": ""V4L - cable outlet 1 left rear"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""V4M - cable outlet 2 centre rear"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""V4R - cable outlet 3 right rear"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""V4S - cable outlet 4 on the side in rear"",
+        ""value"": ""without""
+      },
+      {
+        ""prop"": ""Number of KDB"",
+        ""value"": ""0 KDB""
+      }
+    ]
+  }";tables
+"{
+    ""id"": ""m-6714d617e2a6401798aa7ade7ca0cad3"",
+    ""manufacturer"": ""fredericia"",
+    ""title"": ""5620 Calmo Ottoman 80 Metal Base"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""OTTOMAN"",
+      ""Sofas"",
+      ""CALMO""
+    ],
+    ""properties"": []
+  }";sofas
+"{
+    ""id"": ""m-2c6a6060cb5e4130ac508da89a1d508c"",
+    ""manufacturer"": ""girsberger"",
+    ""title"": ""Yanos Swivel chair"",
+    ""subtitle"": """",
+    ""description"": ""A010B02.26B.1501B/1H-100 Mesh backrest Backrest fabric/leather colour: Mesh Runner 68056 2D-T-shaped armrests plastic Upholstered seat Seat fabric/leather colour: leather Scandinavian 0500 black Synchronous mechanism, seat tilt 0° 5-prong base aluminium Base colour: black standard Castors for soft floors, braked Lumbar support adjustable in depth"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Yanos"",
+      ""Swivel chairs""
+    ],
+    ""properties"": []
+  }";chairs
+"{
+    ""id"": ""m-6a25e8d0b70944c2b7036b6885c1ebd5"",
+    ""manufacturer"": ""hera Laborsysteme GmbH"",
+    ""title"": ""800x400 PROFI Shelf between ENERGY"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""PROFI Shelf"",
+      ""Depth 400mm"",
+      ""Shelf und Standard Support"",
+      ""PROFI Shelf between ENERGY""
+    ],
+    ""properties"": []
+  }";shelves
+"{
+    ""id"": ""m-95d7d1d1a2d344acad5776a8c86610df"",
+    ""manufacturer"": ""Mikomax Sp.z o.o."",
+    ""title"": ""vertikale Kabelführung  Kunststoff"",
+    ""subtitle"": ""Vertical cabling system"",
+    ""description"": ""AKC-OK-503-GSR\n\nvertikale Kabelführung  Kunststoff"",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""AKC"",
+      ""Accesories"",
+      ""STAND UP""
+    ],
+    ""properties"": []
+  }";accessories
+"{
+    ""id"": ""m-b0d586fcc10343748fa263a97739e59c"",
+    ""manufacturer"": ""Mikomax Sp.z o.o."",
+    ""title"": ""SON Acoustic panel   "",
+    ""subtitle"": ""SON acoustic panel 860x55x1800"",
+    ""description"": ""SON-TT-644\n\nSON Acoustic panel   "",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""SONIQ"",
+      ""SONIQ""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Width"",
+        ""value"": ""872 mm""
+      },
+      {
+        ""prop"": ""Height"",
+        ""value"": ""1341 mm (3OH)""
+      },
+      {
+        ""prop"": ""Feet"",
+        ""value"": ""standard""
+      },
+      {
+        ""prop"": ""Fabric colour"",
+        ""value"": ""TAG - Petrus aberglow 300""
+      }
+    ]
+  }";partitions
+"{
+    ""id"": ""m-6ec8c7bb5a34486d9979f3e2311e18b4"",
+    ""manufacturer"": ""Mobitec Systems S.A."",
+    ""title"": ""PUMA - OLIVE"",
+    ""subtitle"": """",
+    ""description"": """",
+    ""type"": ""material"",
+    ""collections"": [
+      ""CUIR1 - PUMA"",
+      ""MATERIALS"",
+      ""LEATHER"",
+      ""UPHOLSTERIES""
+    ],
+    ""properties"": []
+  }";materials
+"{
+    ""id"": ""m-569c88650c8b478abd0c186f3fbbd667"",
+    ""manufacturer"": ""Alias Design"",
+    ""title"": ""com002"",
+    ""subtitle"": ""com002  SEC_com002"",
+    ""description"": ""com002\n\nSideboard with structure in extruded aluminium profiles, shelves and drawers in metal, lateral and front panels in methacrylate. Handles in chromed steel wire and height adjustable feet in grey plastic."",
+    ""type"": ""cad"",
+    ""collections"": [
+      ""Sideboard"",
+      ""Modular systems"",
+      ""Sec"",
+      ""Modular system""
+    ],
+    ""properties"": [
+      {
+        ""prop"": ""Width (cm)"",
+        ""value"": ""53.4""
+      },
+      {
+        ""prop"": ""Height (cm)"",
+        ""value"": ""66""
+      },
+      {
+        ""prop"": ""Depth (cm)"",
+        ""value"": ""45""
+      },
+      {
+        ""prop"": ""Drawer"",
+        ""value"": ""Yes""
+      },
+      {
+        ""prop"": ""Structure type"",
+        ""value"": ""Polished""
+      },
+      {
+        ""prop"": ""Finish"",
+        ""value"": ""Polished""
+      },
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Stove enamelled""
+      },
+      {
+        ""prop"": ""Finish"",
+        ""value"": ""Embossed black""
+      },
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Stove enamelled""
+      },
+      {
+        ""prop"": ""Finish"",
+        ""value"": ""Embossed black""
+      },
+      {
+        ""prop"": ""Material"",
+        ""value"": ""Methacrylate""
+      },
+      {
+        ""prop"": ""Finish"",
+        ""value"": ""Black sandblasted on both faces""
+      }
+    ]
+  }";sideboards
