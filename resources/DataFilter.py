@@ -23,19 +23,28 @@ def main():
        "song_batch_6.json", 
     ]
     for batch in batches:
-        filterSongBatch(None, batch)
+        filterSongBatch(batch)
 
-def filterSongBatch(tags, filename, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True, genresFileName="expandedChatGPT.json", saveFilePrefix="prepared"):
-    """"""
+def filterSongBatch(filename, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True, genresFileName="expandedChatGPT.json", saveFilePrefix="prepared", forceOverwrite=True):
+    """
+    Takes a songBatch, prepares the data and stores it new file. Should be renamed, but this skript is cursed anyway...
+    filename: file with data to be prepared. EG "song_batch.json"
+    selectAtRandom: If a song has many genreTags, one is choosen at random. Else: DataPoint gets the category: "MANY".
+    removeNullGenres: If a song has no Tags in the Genres List, it is skipped.
+    removeEmptyLyrics: If a song has no Lyrict, it is skipped.
+    genresFileName: Filename, where all accepted genres are listed. EG "myGenres.json"
+    saveFliePrefix: Saves the prepared date and stores it as {saveFilePrefix}_{filename}
+    forceOverwrite: If True, will overwrite existing prepared files without asking.
+    """
     path = getPathToFile(filename)
     genres = getGenres(genresFileName)
     data = loadJson(path)
     textGenresPair = getTextGenrePairs(data, genres, selectAtRandom, removeNullGenres, removeEmptyLyrics)
     savePath = getPathToSaveFile(f"{saveFilePrefix}_{filename}")
-    saveJson(textGenresPair, savePath)
+    saveJson(textGenresPair, savePath, forceOverwrite)
 
-def saveJson(data, path):
-    if os.path.exists(path):
+def saveJson(data, path, forceOverwrite=False):
+    if os.path.exists(path) and not forceOverwrite:
         userInput = input("Flie alreedy exist... ReAllY override this File? [y/N]")
         if userInput != "y":
             return
@@ -58,7 +67,6 @@ def shouldSave(textGenrePair, removeNullGenres, removeEmptyLyrics):
     return True;
 
 def generateTextGenrePair(dataPoint, genres: set, selectAtRandom = True):
-    """selectAtRandom: if song has many genres, selects one at random and dismisses the others."""
     intersection = genres.intersection(dataPoint["LastFMTags"])
     if len(intersection) < 1:
         for tag in dataPoint["LastFMTags"]:
