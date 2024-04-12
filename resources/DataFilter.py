@@ -5,6 +5,7 @@ import pandas as pd
 
 GIT_REPO_NAME = "RapGPT"
 DATA_FOLDER = "resources"
+SAVE_FOLDER = "preparedData"
 GENRES_FOLDER = "genres"
 NO_GENRE = "NULL"
 MANY_GENRES = "MANY"
@@ -12,17 +13,49 @@ MANY_GENRES = "MANY"
 noMatchesTags = []
 
 def main():
-    filterSongBatch(None, "song_batch_3.json")
+    batches = [
+       "song_batch_0.json",
+       "song_batch_1.json",
+       "song_batch_2.json",
+       "song_batch_3.json",
+       "song_batch_4.json",
+       "song_batch_5.json",
+       "song_batch_6.json", 
+    ]
+    for batch in batches:
+        filterSongBatch(None, batch)
 
-def filterSongBatch(tags, filename, genresFileName="expandedChatGPT.json"):
+def filterSongBatch(tags, filename, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True, genresFileName="expandedChatGPT.json", saveFilePrefix="prepared"):
+    """"""
     path = getPathToFile(filename)
     genres = getGenres(genresFileName)
     data = loadJson(path)
-    textGenresPair = [generateTextGenrePair(dataPoint, genres) for dataPoint in data]
-    saveJson()
+    textGenresPair = getTextGenrePairs(data, genres, selectAtRandom, removeNullGenres, removeEmptyLyrics)
+    savePath = getPathToSaveFile(f"{saveFilePrefix}_{filename}")
+    saveJson(textGenresPair, savePath)
 
-def saveJson():
-    pass
+def saveJson(data, path):
+    if os.path.exists(path):
+        userInput = input("Flie alreedy exist... ReAllY override this File? [y/N]")
+        if userInput != "y":
+            return
+    with open(path, "w", encoding="utf-8") as file:
+        json.dump(data, file)
+
+def getTextGenrePairs(data, genres, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True):
+    returnList = []
+    for dataPoint in data:
+        textGenrePair = generateTextGenrePair(dataPoint, genres, selectAtRandom)
+        if shouldSave(textGenrePair, removeNullGenres, removeEmptyLyrics):
+            returnList.append(textGenrePair)
+    return returnList
+
+def shouldSave(textGenrePair, removeNullGenres, removeEmptyLyrics):
+    if removeNullGenres and textGenrePair["Genres"] == NO_GENRE:
+        return False;
+    if removeEmptyLyrics and textGenrePair["Lyrics"] == "":
+        return False;
+    return True;
 
 def generateTextGenrePair(dataPoint, genres: set, selectAtRandom = True):
     """selectAtRandom: if song has many genres, selects one at random and dismisses the others."""
@@ -45,6 +78,13 @@ def getPathToFile(filename):
     if len(head) < 1:
         raise NameError("Cannot get the working Path. Look at Source Code and Debug. :/")
     return os.path.join(head[0], GIT_REPO_NAME, DATA_FOLDER, filename)
+
+def getPathToSaveFile(filename):
+    cwd = os.getcwd()
+    head = cwd.split(GIT_REPO_NAME)
+    if len(head) < 1:
+        raise NameError("Cannot get the working Path. Look at Source Code and Debug. :/")
+    return os.path.join(head[0], GIT_REPO_NAME, DATA_FOLDER, SAVE_FOLDER, filename)
 
 def getGenres(filename) -> set:
     path = getPathToGenresFile(filename)
