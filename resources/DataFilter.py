@@ -25,7 +25,7 @@ def main():
     for batch in batches:
         filterSongBatch(batch)
 
-def filterSongBatch(filename, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True, genresFileName="expandedChatGPT.json", saveFilePrefix="prepared", forceOverwrite=True):
+def filterSongBatch(filename: str, selectAtRandom=True, removeNullGenres=True, removeEmptyLyrics=True, genresFileName="expandedChatGPT.json", saveFilePrefix="prepared", forceOverwrite=True):
     """
     Takes a songBatch, prepares the data and stores it new file. Should be renamed, but this skript is cursed anyway...
     filename: file with data to be prepared. EG "song_batch.json"
